@@ -1,5 +1,3 @@
-﻿# FoodVision_CV
-
 # Food Vision with EfficientNet
 
 This repository contains the code for the Food Vision project using EfficientNet. The project involves building a deep learning model to classify food images into 101 different classes using the Food101 dataset.
